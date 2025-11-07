@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohassinhussain" alt="mohassinhussain" /></a> </p>
 
-- 🔭 I’m currently working on [bFinder](https://github.com/MohassinHussain/bFinder)
+
 
 - 🌱 I’m currently learning **DevOps, GenAI, System(compilers)**
 
