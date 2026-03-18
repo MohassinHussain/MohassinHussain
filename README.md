@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DevOps, GenAI, System(compilers)**
 
-- 👨‍💻 All of my projects are available at [https://mohassinhussainbmd.vercel.app/](https://mohassinhussainbmd.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://bmhs.vercel.app/](https://bmhs.vercel.app/)
 
 - 💬 Ask me about **Programming, Software, IoT, Development, DSA**
 
